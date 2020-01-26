@@ -1,1 +1,0 @@
-%windir%\system32\cmd.exe /c start "" "%CD%\HBCD\HBCDMenu.exe"
